@@ -1,1 +1,1 @@
-#BBC News Mockup
+BBC News Mockup
